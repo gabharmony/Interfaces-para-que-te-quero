@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 4;
+}
+
+.qualProp{
+    margin-top: 50px;
+}
+
+h3{
+    text-align: center;
+}
+
+.img-fluid{
+    width: 480px;
+    height: 492px;
+}
+
+.content{
+    margin-bottom: 15px;
+}
+
+.text-content{
+    margin-bottom: 25px;
+}
+
+.img-content{
+    text-align: center;
+}
